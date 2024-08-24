@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on NO ONE, i work alone im batman
 - 📫 How to reach me Discord @VigilanticBinary
 - 😄 Pronouns: Neco/arc
-- ⚡ Fun fact: I habe no idea how to code or how github works!
+
 
 <!---
 VigilanticBinary/VigilanticBinary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
